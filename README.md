@@ -2,9 +2,9 @@
 My Java Bootcamp Resources
 
 ## Style Guides
-[Twitter Styly Guide] (https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
-[Google Style Guide] (https://google.github.io/styleguide/javaguide.html)
+[Twitter Styly Guide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
+[Google Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Online Courses
-[Learn Enough] (https://www.learnenough.com/courses)
+[Learn Enough](https://www.learnenough.com/courses)
 
