@@ -7,5 +7,7 @@ My Java Bootcamp Resources
 [Google Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Online Courses
-[Learn Enough](https://www.learnenough.com/courses)
+[Learn Enough Documentation to be dangerous](https://www.learnenough.com/courses)
+
+
 
