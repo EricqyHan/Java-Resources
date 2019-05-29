@@ -11,8 +11,17 @@ My Java Bootcamp Resources
 
 
 ## Java Cheat Sheets
-[Cheat Sheet Repo](https://github.com/in28minutes/java-cheat-sheet/blob/master/README.md)
-
 [Over API Cheat Sheet](http://overapi.com/java)
+
+## in28Minutes Java Cheat Sheets
+[Java Cheat Sheet](https://github.com/in28minutes/java-cheat-sheet)
+
+[Java Tutorial For Beginners](https://github.com/in28minutes/java-tutorial-for-beginners)
+
+[Java Best Practices}(https://github.com/in28minutes/java-best-practices)
+
+
+
+
 
 
