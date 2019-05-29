@@ -18,7 +18,7 @@ My Java Bootcamp Resources
 
 [Java Tutorial For Beginners](https://github.com/in28minutes/java-tutorial-for-beginners)
 
-[Java Best Practices}(https://github.com/in28minutes/java-best-practices)
+[Java Best Practices](https://github.com/in28minutes/java-best-practices)
 
 
 
