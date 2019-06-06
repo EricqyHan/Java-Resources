@@ -20,6 +20,6 @@ My Java Bootcamp Resources
 
 [Java Best Practices](https://github.com/in28minutes/java-best-practices)
 
-[Java Spring Boots] (https://github.com/in28minutes/SpringBootForBeginners)
+[Java Spring Boots](https://github.com/in28minutes/SpringBootForBeginners)
 
 
