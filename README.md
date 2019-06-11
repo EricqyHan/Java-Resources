@@ -31,3 +31,6 @@ My Java Bootcamp Resources
 
 ## OOP concents
 [OOP Concepts](https://beginnersbook.com/2013/04/oops-concepts/)
+
+## More Practice
+[Geek for Geek Practice](https://practice.geeksforgeeks.org/tracks/java/OOP/#problems)
